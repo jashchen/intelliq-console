@@ -23,3 +23,9 @@ hs_err_pid*
 .idea/
 intelliq-console.iml
 target/
+.DS_Store
+.gradle/
+build/
+out/
+src/.DS_Store
+src/main/.DS_Store
